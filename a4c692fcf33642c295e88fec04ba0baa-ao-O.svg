@@ -1,0 +1,13 @@
+<svg height="1142" width="1370" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+  <text fill="#000000" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" font-weight="bold" id="svg_1" stroke-width="0" text-anchor="middle" transform="matrix(2.93162 0 0 2.98413 -361.214 -87.3016)" x="252.22223" xml:space="preserve" y="66.88878">Purine ring</text>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect fill="#007fff" height="95.55556" id="a4c692fcf33642c295e88fec04ba0baa-ao-1" stroke="#2D2D2D" width="395.55557" x="858.88891" y="1024.66658"/>
+  <rect fill="#007fff" height="113.33334" id="a4c692fcf33642c295e88fec04ba0baa-ao-2" stroke="#2D2D2D" width="335.55556" x="825.55558" y="37.99989"/>
+  <rect fill="#007fff" height="106.66667" id="a4c692fcf33642c295e88fec04ba0baa-ao-3" stroke="#2D2D2D" width="431.11112" x="50" y="235.77767"/>
+ </g>
+</svg>

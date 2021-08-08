@@ -1,0 +1,12 @@
+<svg height="972.0000000000001" width="1588" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+  <text fill="#000000" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" font-weight="bold" id="svg_3" stroke-width="0" style="cursor: move; " text-anchor="middle" transform="matrix(3.30683 0 0 3.79766 -69.3825 -302.798)" x="127.09426" xml:space="preserve" y="111.01892">Pyrimidine ring</text>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect class="qshape" fill="#FF7E7E" height="139.62265" id="4131a82ef0a64098be82c42b4e6a7b4a-ao-1" stroke="#2D2D2D" width="335.84907" x="1242.18866" y="254.41516"/>
+  <rect fill="#007fff" height="169.81133" id="4131a82ef0a64098be82c42b4e6a7b4a-ao-2" stroke="#2D2D2D" width="384.90568" x="23.32067" y="201.58497"/>
+ </g>
+</svg>

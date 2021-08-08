@@ -1,0 +1,17 @@
+<svg height="1060" width="2082" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+  <rect fill="#ffffff" height="230.95239" id="svg_1" stroke="#ffffff" width="404.76192" x="1641.41274" y="-0.07938"/>
+  <rect fill="#ffffff" height="230.95239" id="svg_3" stroke="#ffffff" width="871.42852" x="1216.4128" y="933.25395"/>
+  <text fill="#000000" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" font-weight="bold" id="svg_2" stroke-width="0" text-anchor="middle" transform="matrix(2.97475 0 0 3.14552 -383.375 -809.011)" x="228.48166" xml:space="preserve" y="368.94252">Purine ring</text>
+  <path d="m558.25031,457.3913l6.44006,-27.68115l15.28326,0.19763c0,0 13.12518,21.42291 13.19104,21.42291c0.06586,0 -2.04211,9.09091 -1.97626,9.09091c0.06586,0 -2.70093,1.1199 -2.71674,1.10672c-0.01581,-0.01318 -1.6311,0.14496 -1.64691,0.13174c-0.01581,-0.01321 -1.69696,0.21085 -1.71277,0.19763c-0.01581,-0.01321 -1.76282,0.34259 -1.77869,0.32941c-0.01587,-0.01318 -0.05005,3.30698 -0.06586,3.29379c-0.01581,-0.01318 -0.05005,1.26483 -0.06586,1.25165c-0.01581,-0.01318 -2.42163,0.34256 -2.42163,0.34256c0,0 -3.88666,0.06589 -3.90253,0.0527c-0.01587,-0.01318 -4.06848,-2.95126 -4.00262,-2.95126c0.06586,-0.00003 -1.84448,-1.38339 -1.86035,-1.39658c-0.01587,-0.01318 -1.56519,0.01318 -1.56519,0.01318c0,0 -1.05402,-0.65875 -1.06982,-0.67194" fill="#ffffff" id="svg_5" stroke-width="3"/>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect fill="#007fff" height="155.55555" id="b8337097311240edb6e7760d3c545ac5-ao-1" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="536.11111" x="1517.99987" y="381.66663"/>
+  <rect fill="#007fff" height="155.55555" id="b8337097311240edb6e7760d3c545ac5-ao-2" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="536.11111" x="937.44434" y="53.88888"/>
+  
+  <rect fill="#007fff" height="155.55555" id="b8337097311240edb6e7760d3c545ac5-ao-4" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="536.11111" x="92.99994" y="898.33328"/>
+ </g>
+</svg>

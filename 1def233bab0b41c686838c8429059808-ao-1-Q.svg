@@ -1,0 +1,14 @@
+<svg height="346" width="478" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+  <text fill="#000000" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_3" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(0.899646 0 0 1 35.425 0)" x="223.2664" xml:space="preserve" y="333.28573">Which end is + and - ?</text>
+ </g>
+ <g>
+  <title>Masks</title>
+  <g class="qshape" id="1def233bab0b41c686838c8429059808-ao-1">
+   <rect class="qshape" fill="#FF7E7E" height="26.42857" stroke="#2D2D2D" width="31.42857" x="288.42857" y="19.71429"/>
+   <rect class="qshape" fill="#FF7E7E" height="26.42857" stroke="#2D2D2D" width="31.42857" x="267.71428" y="111.85715"/>
+  </g>
+ </g>
+</svg>

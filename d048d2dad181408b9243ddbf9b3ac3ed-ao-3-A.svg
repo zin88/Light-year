@@ -1,0 +1,15 @@
+<svg height="690" width="1908" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect fill="#007fff" height="114.28571" id="d048d2dad181408b9243ddbf9b3ac3ed-ao-1" stroke="#2D2D2D" width="171.42857" x="386.64289" y="531.42858"/>
+  <rect fill="#007fff" height="114.28571" id="d048d2dad181408b9243ddbf9b3ac3ed-ao-2" stroke="#2D2D2D" width="167.85715" x="695.57147" y="540.35715"/>
+  
+  <rect fill="#007fff" height="114.28571" id="d048d2dad181408b9243ddbf9b3ac3ed-ao-4" stroke="#2D2D2D" width="167.85715" x="1165.21433" y="542.14287"/>
+  <ellipse cx="803.92751" cy="260.58616" fill="#007fff" id="d048d2dad181408b9243ddbf9b3ac3ed-ao-5" rx="44.32933" ry="34.50109" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null"/>
+  <ellipse cx="1024.51777" cy="316.25001" fill="#007fff" id="d048d2dad181408b9243ddbf9b3ac3ed-ao-6" rx="58.52645" ry="32.77671" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null"/>
+ </g>
+</svg>
